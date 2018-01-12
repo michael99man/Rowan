@@ -1,0 +1,49 @@
+Analyzing 6 data set(s)
+Data set 1
+	Robot Start: 2 1
+	Robot Strength and Agility: 2 8
+	Instructions: 10
+	10 instructions processed; robot at 4 3
+	Table configuration:
+		  9  6 -2  8  1  7
+		  5  1  0  9  3  4
+		  3 -1 -4  9  8  3
+		  8  1 -5  1 -7  5
+Data set 2
+	Robot Start: 1 3
+	Robot Strength and Agility: 9 4
+	Instructions: 3
+	robot is off table
+Data set 3
+	Robot Start: 2 1
+	Robot Strength and Agility: 9 1
+	Instructions: 2
+	robot is in a hole
+Data set 4
+	Robot Start: 1 3
+	Robot Strength and Agility: 2 4
+	Instructions: 4
+	Instruction 2 unsafe: W at 0 3
+	Table configuration:
+		  1  1
+		  1  1
+		  1  1
+		  1  0
+Data set 5
+	Robot Start: 1 0
+	Robot Strength and Agility: 4 12
+	Instructions: 4
+	Instruction 1 unsafe: N at 1 0
+	Table configuration:
+		 -2  0  1
+		  3  0  0
+Data set 6
+	Robot Start: 0 2
+	Robot Strength and Agility: 4 20
+	Instructions: 6
+	Instruction 6 unsafe: S at 2 3
+	Table configuration:
+		 -1 -2 -4 -2 -3
+		 -7 -2 -4 -1 -5
+		 -3 -5 -1 -2 -2
+		 -4 -3 -4 -4 -8
